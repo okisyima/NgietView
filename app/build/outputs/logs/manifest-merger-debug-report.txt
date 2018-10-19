@@ -1,0 +1,159 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/kun/AndroidStudioProjects/NgietView/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/kun/AndroidStudioProjects/NgietView/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/kun/AndroidStudioProjects/NgietView/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/kun/AndroidStudioProjects/NgietView/app/src/main/AndroidManifest.xml:2:1-21:12
+MERGED from [de.hdodenhof:circleimageview:2.1.0] /home/kun/.gradle/caches/transforms-1/files-1.1/circleimageview-2.1.0.aar/f66752c29310be8cae02b57a56268e2a/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/kun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/a1318e7b58f711362c3c2dc6d56ebb77/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/kun/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/a47bf46fa5743bb838f2cff2d1f88dd8/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] /home/kun/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/56fae3a01f390587fd55c8f3f68f0a36/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/kun/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/64533bf37afd598d8098da9f25f27e5c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/kun/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/7c08e12c1219fb09b2e746fa835b8447/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/kun/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/8b00f90090bb0dd1818a5c83528d61a9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/kun/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/6e1d11e09d790eeede1e372dc37a8b8e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /home/kun/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/0e992c48c9f0bc7d9db4c6f674967d82/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /home/kun/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/ae202179cfc68ad9432397de2ee6c99c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/kun/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/96a4f6ea5ddff11af860096513b93a1a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/kun/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/8cf743342c523507323541a223bb5ced/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/kun/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/64a14bd1adf42570f6ac3c77310d42b0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /home/kun/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/3ed5532897c05af0c9c0e10a12956648/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/kun/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/f20d9f73dc9d5d15e897da72f7443eaf/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/kun/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/0c4e9725d44c41b9105da32156d52be6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /home/kun/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/8484302113a485e79971a7950c4b488d/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/kun/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/00382b07975270654de035c7243567c8/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/kun/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/3e52f47c8ca9834df7cb61ffedd6c402/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/kun/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/1cd67888d08de21846daea25c1f2d562/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /home/kun/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/f785c07f31dc2402c9794cf7e54c740c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/kun/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/3a3f80f6972295c9e90d30f7b4ba11fb/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /home/kun/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/35255f8f18d9bcf00caceb6dfbf932b7/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/kun/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/16f2dac7fefd3128b15bd4e7557cee43/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/kun/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/9afcfdc4252106502abe85e75f93bf07/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/kun/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/689fb25cb86a9d227301824cf36c0c95/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /home/kun/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/3b456fbff9f71731233b9f95f9599a1a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /home/kun/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/98afc667ffcbfc9acfcf1bfcf29ce35e/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/kun/AndroidStudioProjects/NgietView/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/kun/AndroidStudioProjects/NgietView/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/kun/AndroidStudioProjects/NgietView/app/src/main/AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from /home/kun/AndroidStudioProjects/NgietView/app/src/main/AndroidManifest.xml:3:5-36
+		INJECTED from /home/kun/AndroidStudioProjects/NgietView/app/src/main/AndroidManifest.xml
+		INJECTED from /home/kun/AndroidStudioProjects/NgietView/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/kun/AndroidStudioProjects/NgietView/app/src/main/AndroidManifest.xml
+		ADDED from /home/kun/AndroidStudioProjects/NgietView/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /home/kun/AndroidStudioProjects/NgietView/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/kun/AndroidStudioProjects/NgietView/app/src/main/AndroidManifest.xml
+		ADDED from /home/kun/AndroidStudioProjects/NgietView/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /home/kun/AndroidStudioProjects/NgietView/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/kun/AndroidStudioProjects/NgietView/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /home/kun/AndroidStudioProjects/NgietView/app/src/main/AndroidManifest.xml:5:5-19:19
+MERGED from [de.hdodenhof:circleimageview:2.1.0] /home/kun/.gradle/caches/transforms-1/files-1.1/circleimageview-2.1.0.aar/f66752c29310be8cae02b57a56268e2a/AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:2.1.0] /home/kun/.gradle/caches/transforms-1/files-1.1/circleimageview-2.1.0.aar/f66752c29310be8cae02b57a56268e2a/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/kun/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/a47bf46fa5743bb838f2cff2d1f88dd8/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/kun/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/a47bf46fa5743bb838f2cff2d1f88dd8/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /home/kun/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/8484302113a485e79971a7950c4b488d/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /home/kun/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/8484302113a485e79971a7950c4b488d/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/kun/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/00382b07975270654de035c7243567c8/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/kun/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/00382b07975270654de035c7243567c8/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /home/kun/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/8484302113a485e79971a7950c4b488d/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /home/kun/AndroidStudioProjects/NgietView/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /home/kun/AndroidStudioProjects/NgietView/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /home/kun/AndroidStudioProjects/NgietView/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /home/kun/AndroidStudioProjects/NgietView/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /home/kun/AndroidStudioProjects/NgietView/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /home/kun/AndroidStudioProjects/NgietView/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.cekucek.ngietview.MainActivity
+ADDED from /home/kun/AndroidStudioProjects/NgietView/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /home/kun/AndroidStudioProjects/NgietView/app/src/main/AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/kun/AndroidStudioProjects/NgietView/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /home/kun/AndroidStudioProjects/NgietView/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /home/kun/AndroidStudioProjects/NgietView/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/kun/AndroidStudioProjects/NgietView/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /home/kun/AndroidStudioProjects/NgietView/app/src/main/AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from /home/kun/AndroidStudioProjects/NgietView/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/kun/AndroidStudioProjects/NgietView/app/src/main/AndroidManifest.xml
+INJECTED from /home/kun/AndroidStudioProjects/NgietView/app/src/main/AndroidManifest.xml
+MERGED from [de.hdodenhof:circleimageview:2.1.0] /home/kun/.gradle/caches/transforms-1/files-1.1/circleimageview-2.1.0.aar/f66752c29310be8cae02b57a56268e2a/AndroidManifest.xml:5:5-7:41
+MERGED from [de.hdodenhof:circleimageview:2.1.0] /home/kun/.gradle/caches/transforms-1/files-1.1/circleimageview-2.1.0.aar/f66752c29310be8cae02b57a56268e2a/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/kun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/a1318e7b58f711362c3c2dc6d56ebb77/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/kun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/a1318e7b58f711362c3c2dc6d56ebb77/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/kun/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/a47bf46fa5743bb838f2cff2d1f88dd8/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/kun/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/a47bf46fa5743bb838f2cff2d1f88dd8/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] /home/kun/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/56fae3a01f390587fd55c8f3f68f0a36/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/kun/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/56fae3a01f390587fd55c8f3f68f0a36/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/kun/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/64533bf37afd598d8098da9f25f27e5c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/kun/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/64533bf37afd598d8098da9f25f27e5c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/kun/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/7c08e12c1219fb09b2e746fa835b8447/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/kun/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/7c08e12c1219fb09b2e746fa835b8447/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/kun/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/8b00f90090bb0dd1818a5c83528d61a9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/kun/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/8b00f90090bb0dd1818a5c83528d61a9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/kun/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/6e1d11e09d790eeede1e372dc37a8b8e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/kun/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/6e1d11e09d790eeede1e372dc37a8b8e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/kun/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/0e992c48c9f0bc7d9db4c6f674967d82/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/kun/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/0e992c48c9f0bc7d9db4c6f674967d82/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/kun/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/ae202179cfc68ad9432397de2ee6c99c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/kun/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/ae202179cfc68ad9432397de2ee6c99c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/kun/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/96a4f6ea5ddff11af860096513b93a1a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/kun/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/96a4f6ea5ddff11af860096513b93a1a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/kun/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/8cf743342c523507323541a223bb5ced/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/kun/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/8cf743342c523507323541a223bb5ced/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/kun/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/64a14bd1adf42570f6ac3c77310d42b0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/kun/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/64a14bd1adf42570f6ac3c77310d42b0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/kun/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/3ed5532897c05af0c9c0e10a12956648/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/kun/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/3ed5532897c05af0c9c0e10a12956648/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/kun/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/f20d9f73dc9d5d15e897da72f7443eaf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/kun/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/f20d9f73dc9d5d15e897da72f7443eaf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/kun/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/0c4e9725d44c41b9105da32156d52be6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/kun/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/0c4e9725d44c41b9105da32156d52be6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/kun/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/8484302113a485e79971a7950c4b488d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/kun/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/8484302113a485e79971a7950c4b488d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/kun/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/00382b07975270654de035c7243567c8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/kun/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/00382b07975270654de035c7243567c8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/kun/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/3e52f47c8ca9834df7cb61ffedd6c402/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/kun/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/3e52f47c8ca9834df7cb61ffedd6c402/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/kun/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/1cd67888d08de21846daea25c1f2d562/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/kun/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/1cd67888d08de21846daea25c1f2d562/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/kun/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/f785c07f31dc2402c9794cf7e54c740c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/kun/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/f785c07f31dc2402c9794cf7e54c740c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/kun/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/3a3f80f6972295c9e90d30f7b4ba11fb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/kun/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/3a3f80f6972295c9e90d30f7b4ba11fb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/kun/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/35255f8f18d9bcf00caceb6dfbf932b7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/kun/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/35255f8f18d9bcf00caceb6dfbf932b7/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/kun/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/16f2dac7fefd3128b15bd4e7557cee43/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/kun/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/16f2dac7fefd3128b15bd4e7557cee43/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/kun/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/9afcfdc4252106502abe85e75f93bf07/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/kun/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/9afcfdc4252106502abe85e75f93bf07/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/kun/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/689fb25cb86a9d227301824cf36c0c95/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/kun/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/689fb25cb86a9d227301824cf36c0c95/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/kun/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/3b456fbff9f71731233b9f95f9599a1a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/kun/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/3b456fbff9f71731233b9f95f9599a1a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/kun/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/98afc667ffcbfc9acfcf1bfcf29ce35e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/kun/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/98afc667ffcbfc9acfcf1bfcf29ce35e/AndroidManifest.xml:20:5-44
+INJECTED from /home/kun/AndroidStudioProjects/NgietView/app/src/main/AndroidManifest.xml
+INJECTED from /home/kun/AndroidStudioProjects/NgietView/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/kun/AndroidStudioProjects/NgietView/app/src/main/AndroidManifest.xml
+		ADDED from /home/kun/AndroidStudioProjects/NgietView/app/src/main/AndroidManifest.xml
+		INJECTED from /home/kun/AndroidStudioProjects/NgietView/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/kun/AndroidStudioProjects/NgietView/app/src/main/AndroidManifest.xml
+		ADDED from /home/kun/AndroidStudioProjects/NgietView/app/src/main/AndroidManifest.xml
+		INJECTED from /home/kun/AndroidStudioProjects/NgietView/app/src/main/AndroidManifest.xml

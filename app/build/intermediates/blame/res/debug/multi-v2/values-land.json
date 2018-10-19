@@ -1,16 +1,16 @@
 {
     "logs": [
         {
-            "outputFile": "/home/kun/AndroidStudioProjects/NgietView/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-land/values-land.xml",
+            "outputFile": "/media/fighter/Bcitech/web.server/android.dev/NgietView/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-land/values-land.xml",
             "map": [
                 {
-                    "source": "/home/kun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/a1318e7b58f711362c3c2dc6d56ebb77/res/values-land/values-land.xml",
+                    "source": "/home/fighter/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/5e8822d8ac40d1a06cea331858817fb1/res/values-land/values-land.xml",
                     "from": {
-                        "startLines": "2,3,4",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "55,125,196",
-                        "endColumns": "69,70,67",
-                        "endOffsets": "120,191,259"
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,125,189,260",
+                        "endColumns": "69,63,70,67",
+                        "endOffsets": "120,184,255,323"
                     }
                 }
             ]

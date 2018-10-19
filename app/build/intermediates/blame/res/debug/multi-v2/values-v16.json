@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/home/kun/AndroidStudioProjects/NgietView/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v16/values-v16.xml",
+            "outputFile": "/media/fighter/Bcitech/web.server/android.dev/NgietView/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v16/values-v16.xml",
             "map": [
                 {
-                    "source": "/home/kun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/a1318e7b58f711362c3c2dc6d56ebb77/res/values-v16/values-v16.xml",
+                    "source": "/home/fighter/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/5e8822d8ac40d1a06cea331858817fb1/res/values-v16/values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -23,7 +23,7 @@
                     }
                 },
                 {
-                    "source": "/home/kun/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/8484302113a485e79971a7950c4b488d/res/values-v16/values-v16.xml",
+                    "source": "/home/fighter/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/e732610381fd6aa4b0b51d451fe67765/res/values-v16/values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
